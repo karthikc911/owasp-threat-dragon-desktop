@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Sample1",
+    "owner": "kc",
+    "description": "high level"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "kc"
+  }
+}
